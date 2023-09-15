@@ -171,5 +171,8 @@ L and
 n are compatible to ensure no leftover string.
 
 
+...
+Instead of seeing polygons as approximations of a circle, I'm suggesting that circles are literally the culmination of an infinite sequence of polygons.
+As n goes to infinity that is why y axis is exactly pi. 
 
 
